@@ -1,5 +1,6 @@
 # Snapface
-This is a course from [OpenClassRoom](https://openclassrooms.com/fr/courses/7471261-debutez-avec-angular)
+This is a course from [OpenClassRoom](https://openclassrooms.com/fr/courses/7471261-debutez-avec-angular).
+
 The goal is to learn some basic about Angular.
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
